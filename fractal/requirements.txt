@@ -1,0 +1,12 @@
+tensorflow
+tensorflow-datasets
+tensorflow_text
+tensorflow_hub
+xmanager
+pandas
+nltk
+numpy
+scikit-learn
+scipy
+absl-py
+tensorflow-probability
